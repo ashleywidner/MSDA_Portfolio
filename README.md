@@ -1,10 +1,10 @@
 # Data Analyst
 
 ### Education
-Data Analytics, MS
-Biology, BS
+* Data Analytics, MS
+* Biology, BS
 
-### College Projects
+### Master's Courses
 * D204 - Data Analytis Journey
 * D205 - Data Acquisition
 * D206 - Data Cleaning
