@@ -10,7 +10,7 @@ This course covers the following competencies:
 * The graduate performs table operations and queries within the context of data acquisition for analysis.
 
 ## Performance Assessment Requirements
-Perform the following tasks to combine an existing data set with some external data:
+Perform the following tasks to combine an existing data set with some external data:<br>
 A.  Provide a question that can be answered using structured query language (SQL) to acquire data from both the original database and the add-on CSV file data. The question should require data from both data sources.
 1.  Identify which data from the original data set and the add-on CSV file are needed to answer the question including all tables, columns, and data types.
 
