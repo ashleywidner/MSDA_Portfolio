@@ -47,8 +47,7 @@ E.  Summarize the implications of your data analysis by doing the following:
 2.  Discuss the limitations of your data analysis.
 3.  Recommend a course of action based on your results.
 
-F.  Provide a Panopto video recording that includes a demonstration of the functionality of the code used for the analysis and a summary of the tool(s) used.<br>
-Note: For instructions on how to access and use Panopto, use the "Panopto How-To Videos" web link provided below. To access Panopto's website, navigate to the web link titled "Panopto Access," and then choose to log in using the “WGU” option. If prompted, log in using your WGU student portal credentials, and then it will forward you to Panopto’s website.
+F.  Provide a Panopto video recording that includes a demonstration of the functionality of the code used for the analysis and a summary of the tool(s) used.
 
 G.  Reference the web sources used to acquire segments of third-party code to support the analysis. 
 
