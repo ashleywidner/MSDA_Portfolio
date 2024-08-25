@@ -4,7 +4,6 @@ Data Mining I expands predictive modeling into nonlinear dimensions, enhancing t
 
 ## Course Objectives
 * The graduate applies observations to appropriate classes and categories using classification models.
-* The graduate implements prediction data mining models to find hard-to-spot relationships among variables.
 * The graduate evaluates data mining model performance for precision, accuracy, and model comparison.
 
 ## Performace Assessment Introduction
@@ -63,7 +62,6 @@ I.  Demonstrate professional communication in the content and presentation of yo
 Data Mining I expands predictive modeling into nonlinear dimensions, enhancing the capabilities and effectiveness of the data analytics lifecycle. In this course, learners implement supervised models—specifically classification and prediction data mining models—to unearth relationships among variables that are not apparent with more surface-level techniques. The course provides frameworks for assessing models’ sensitivity and specificity. D208 Predictive Modeling is a prerequisite to this course.
 
 ## Course Objectives
-* The graduate applies observations to appropriate classes and categories using classification models.
 * The graduate implements prediction data mining models to find hard-to-spot relationships among variables.
 * The graduate evaluates data mining model performance for precision, accuracy, and model comparison.
 
