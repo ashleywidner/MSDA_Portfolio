@@ -7,7 +7,7 @@ Exploratory Data Analysis covers statistical principles supporting the data anal
 * The graduate interprets central tendency, correlations, and variation to inform organizational decisions.
 * The graduate conducts parametric hypothesis testing.
 
-## Performance Assessment Introduction
+## Introduction
 An organization has collected raw data to analyze its operations and support its decision-making processes. The raw data files from the Data Cleaning course have been cleaned and prepared for exploratory analysis.
 
 To compete this assessment, you will access a data dictionary file and its corresponding data flat file. You will analyze the data set using specific techniques, create visualizations, and deliver the results of your analysis.
