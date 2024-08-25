@@ -1,10 +1,11 @@
-# D209: Data Mining I -- Task 1: Classification Analysis
+# D209: Data Mining I
 ## Course Overview
 Data Mining I expands predictive modeling into nonlinear dimensions, enhancing the capabilities and effectiveness of the data analytics lifecycle. In this course, learners implement supervised models—specifically classification and prediction data mining models—to unearth relationships among variables that are not apparent with more surface-level techniques. The course provides frameworks for assessing models’ sensitivity and specificity. D208 Predictive Modeling is a prerequisite to this course.
 
 ## Course Objectives
 * The graduate applies observations to appropriate classes and categories using classification models.
 * The graduate evaluates data mining model performance for precision, accuracy, and model comparison.
+* The graduate implements prediction data mining models to find hard-to-spot relationships among variables.
 
 ## Performace Assessment Introduction
 In this task, you will act as an analyst and create a data mining report. In doing so, you must select one of the data dictionary and data set files to use for your report from the following link: Data Sets and Associated Data Dictionaries.
@@ -13,6 +14,7 @@ You should also refer to the data dictionary file for your chosen data set from 
 
 Note: All algorithms and visual representations used need to be captured either in tables or as screenshots added into the submitted document. A separate Microsoft Excel (.xls or .xlsx) document of the cleaned data should be submitted along with the written aspects of the data mining report.
 
+# Task 1: Classification Analysis
 ## Performance Assessment Requirements
 Part I: Research Question<br>
 A.  Describe the purpose of this data mining report by doing the following:
@@ -57,21 +59,7 @@ H.  Acknowledge sources, using in-text citations and references, for content tha
 I.  Demonstrate professional communication in the content and presentation of your submission.
 
 
-# D209: Data Mining I -- Task 2: Predicitive Analysis
-## Course Overview
-Data Mining I expands predictive modeling into nonlinear dimensions, enhancing the capabilities and effectiveness of the data analytics lifecycle. In this course, learners implement supervised models—specifically classification and prediction data mining models—to unearth relationships among variables that are not apparent with more surface-level techniques. The course provides frameworks for assessing models’ sensitivity and specificity. D208 Predictive Modeling is a prerequisite to this course.
-
-## Course Objectives
-* The graduate implements prediction data mining models to find hard-to-spot relationships among variables.
-* The graduate evaluates data mining model performance for precision, accuracy, and model comparison.
-
-## Performace Assessment Introduction
-In this task, you will act as an analyst and create a data mining report. In doing so, you must select one of the data dictionary and data set files to use for your report from the following link: Data Sets and Associated Data Dictionaries.
-
-You should also refer to the data dictionary file for your chosen data set from the provided link. You will use Python or R to analyze the given data and create a data mining report in a word processor (e.g., Microsoft Word). Throughout the submission, you must visually represent each step of your work and the findings of your data analysis.
-
-Note: All algorithms and visual representations used need to be captured either in tables or as screenshots added into the submitted document. A separate Microsoft Excel (.xls or .xlsx) document of the cleaned data should be submitted along with the written aspects of the data mining report.
-
+# Task 2: Predicitive Analysis
 ## Performance Assessment Requirements
 Part I: Research Question<br>
 A.  Describe the purpose of this data mining report by doing the following:
