@@ -10,9 +10,9 @@ Predictive Modeling builds on initial data preparation, cleaning, and analysis, 
 ## Introduction
 As a data analyst, you will assess data sources for their relevance to specific research questions throughout your career. In your previous coursework, you have performed data cleaning and exploratory data analysis on your data. You have seen basic trends and patterns and can now start building more sophisticated statistical models. In this course, you will use regression models. You will explore both linear regression and logistic regression models and their assumptions. 
 
-For this task, you will select one of the provided data files from the “Data Sets and Associated Data Dictionaries” found in the Web Links section.
+For these tasks, you will select one of the provided data files from the “Data Sets and Associated Data Dictionaries” found in the Web Links section.
 
-You will then review the data dictionary related to the raw data file you have chosen and prepare the data set file for linear regression modeling. The organizations connected with the given data sets for this task seek to analyze their operations and have collected variables of possible use to support the decision-making processes. You will analyze your chosen data set using linear regression modeling, create visualizations, and deliver the results of your analysis.
+You will then review the data dictionary related to the raw data file you have chosen and prepare the data set file for linear and logistic regression modeling. The organizations connected with the given data sets for these tasks seek to analyze their operations and have collected variables of possible use to support the decision-making processes. You will analyze your chosen data set using linear and logistic regression modeling, create visualizations, and deliver the results of your analysis.
 
 # Task 1: Linear Regression Modeling
 ## Performance Assessment Requirements
