@@ -7,14 +7,15 @@ Predictive Modeling builds on initial data preparation, cleaning, and analysis, 
 * The graduate employs multiple regression algorithms with categorical and numerical predictors in describing phenomena.
 * The graduate makes assertions based on regression modeling.
 
-## (Task 1) Performance Assessment Introduction
+## Performance Assessment Introduction
 As a data analyst, you will assess data sources for their relevance to specific research questions throughout your career. In your previous coursework, you have performed data cleaning and exploratory data analysis on your data. You have seen basic trends and patterns and can now start building more sophisticated statistical models. In this course, you will use regression models. You will explore both linear regression and logistic regression models and their assumptions. 
 
 For this task, you will select one of the provided data files from the “Data Sets and Associated Data Dictionaries” found in the Web Links section.
 
 You will then review the data dictionary related to the raw data file you have chosen and prepare the data set file for linear regression modeling. The organizations connected with the given data sets for this task seek to analyze their operations and have collected variables of possible use to support the decision-making processes. You will analyze your chosen data set using linear regression modeling, create visualizations, and deliver the results of your analysis.
 
-## (Task 1) Performance Assessment Requirements
+# Task 1: Linear Regression Modeling
+## Performance Assessment Requirements
 Part I: Research Question<br>
 A.  Describe the purpose of this data analysis by doing the following:
 1.  Summarize one research question that is relevant to a real-world organizational situation captured in the data set you have selected and that you will answer using multiple linear regression in the initial model.
@@ -70,14 +71,8 @@ I.  Acknowledge sources, using in-text citations and references, for content tha
 
 J.  Demonstrate professional communication in the content and presentation of your submission.
 
-## (Task 2) Performance Assessment Introduction
-As a data analyst, you will assess data sources for their relevance to specific research questions throughout your career. In your previous coursework, you have performed data cleaning and exploratory data analysis on your data. You have seen basic trends and patterns and now can start building more sophisticated statistical models. In this course, you will use regression models. You will use and explore both linear regression and logistic regression models and their assumptions.
-
-For this task, you will select one of the provided data files from the “Data Sets and Associated Data Dictionaries” found in the Web Links section.
-
-You will then review the data dictionary related to the raw data file you have chosen and prepare the data set file for logistic regression modeling. The organizations connected with the given data sets for this task seek to analyze their operations and have collected variables of possible use to support decision-making processes. You will analyze your chosen data set using logistic regression modeling, create visualizations, and deliver the results of your analysis.
-
-## (Task 2) Performance Assessment Requirements
+# Task 2: Logistic Regression Modeling
+## Performance Assessment Requirements
 Part I: Research Question<br>
 A.  Describe the purpose of this data analysis by doing the following:
 1.  Summarize one research question that is relevant to a real-world organizational situation captured in the data set you have selected and that you will answer using logistic regression.
